@@ -197,20 +197,23 @@ nav a:hover {
 }
 
 
-.houses{
-  border-radius:  35%;
+.houses img{
+  border-radius:  15%;
+  width: 65%;
+  height: 65%;
 }
 
 
 footer .social{
-  background-color: rgb(175, 201, 136);
+  background-color: rgb(78, 92, 211);
   padding: 25px 50px;
   margin-top: 200px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
   grid-row: 1;
   grid-column: 3;
-  justify-content: space-around;
+  justify-content: space-between;
+  height: 15%;
 }
 
 .social img{
