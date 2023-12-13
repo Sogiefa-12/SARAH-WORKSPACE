@@ -11,6 +11,7 @@ Fonts are separated by a | */
   --secondary-color: #9AEB75 ;
   --accent1-color: #7b9795;
   --accent2-color: white;
+  --accent3-color:var(--paragraph-color-on-white);
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Roboto";
@@ -205,7 +206,7 @@ nav a:hover {
 
 
 footer .social{
-  background-color: rgb(78, 92, 211);
+  background-color:#22577A;
   padding: 25px 50px;
   margin-top: 200px;
   display: grid;
